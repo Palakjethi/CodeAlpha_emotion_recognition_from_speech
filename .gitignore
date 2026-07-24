@@ -1,0 +1,16 @@
+# Datasets (too large for git — users download separately, see README)
+data/raw/
+data/*.npz
+data/*.csv
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
